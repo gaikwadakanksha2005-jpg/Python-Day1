@@ -12,5 +12,7 @@ elif day == 5:
 elif day == 6:
     print("fri") 
 elif day == 7:
-     print("sat")            
+     print("sat") 
+else:
+    print("invalid day")                
   
